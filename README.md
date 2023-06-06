@@ -6,7 +6,7 @@ To create a Gliding box animation using CSS animation.
 
 ## SOFTWARE:
 
-Visual Studio Code.
+Visual Studio Code
 
 ## ALGORITHM:
 
