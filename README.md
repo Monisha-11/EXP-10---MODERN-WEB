@@ -1,4 +1,4 @@
-# EXP 10 - GLIDING BOX
+# EXP 11 - GLIDING BOX
 
 ## AIM:
 
